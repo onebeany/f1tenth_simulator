@@ -1,0 +1,3 @@
+file_name,average_lap_time,standard_deviation
+laptime_10_50.csv,49.4441,0.2656
+laptime_fixed_20.csv,48.8019,0.1520
